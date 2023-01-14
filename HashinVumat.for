@@ -43,8 +43,8 @@ c     props(17) --> Ultimate tens stress in 1-direction, sigu1t
 c     props(18) --> Ultimate comp stress in 1-direction, sigu1c 
 c     props(19) --> Ultimate tens stress in 2-direction, sigu2t 
 c     props(20) --> Ultimate comp stress in 2-direction, sigu2c 
-c     props(21) --> Ultimate tens stress in 2-direction, sigu3t 
-c     props(22) --> Ultimate comp stress in 2-direction, sigu3c 
+c     props(21) --> Ultimate tens stress in 3-direction, sigu3t 
+c     props(22) --> Ultimate comp stress in 3-direction, sigu3c 
 c     props(23) --> "not used" 
 c     props(24) --> "not used" 
 c 
